@@ -1,0 +1,213 @@
+G:\NĂM 4_HK2\Xây dựng phần mềm windows\WebApiHoaDon\WebApiHoaDon\obj\Debug\WebApiHoaDon.csprojAssemblyReference.cache
+G:\NĂM 4_HK2\Xây dựng phần mềm windows\WebApiHoaDon\WebApiHoaDon\obj\Debug\WebApiHoaDon.csproj.CoreCompileInputs.cache
+G:\NĂM 4_HK2\Xây dựng phần mềm windows\WebApiHoaDon\WebApiHoaDon\bin\WebApiHoaDon.dll.config
+G:\NĂM 4_HK2\Xây dựng phần mềm windows\WebApiHoaDon\WebApiHoaDon\bin\WebApiHoaDon.dll
+G:\NĂM 4_HK2\Xây dựng phần mềm windows\WebApiHoaDon\WebApiHoaDon\bin\WebApiHoaDon.pdb
+G:\NĂM 4_HK2\Xây dựng phần mềm windows\WebApiHoaDon\WebApiHoaDon\bin\roslyn\csc.exe
+G:\NĂM 4_HK2\Xây dựng phần mềm windows\WebApiHoaDon\WebApiHoaDon\bin\roslyn\csc.exe.config
+G:\NĂM 4_HK2\Xây dựng phần mềm windows\WebApiHoaDon\WebApiHoaDon\bin\roslyn\csc.rsp
+G:\NĂM 4_HK2\Xây dựng phần mềm windows\WebApiHoaDon\WebApiHoaDon\bin\roslyn\csi.exe
+G:\NĂM 4_HK2\Xây dựng phần mềm windows\WebApiHoaDon\WebApiHoaDon\bin\roslyn\csi.exe.config
+G:\NĂM 4_HK2\Xây dựng phần mềm windows\WebApiHoaDon\WebApiHoaDon\bin\roslyn\csi.rsp
+G:\NĂM 4_HK2\Xây dựng phần mềm windows\WebApiHoaDon\WebApiHoaDon\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+G:\NĂM 4_HK2\Xây dựng phần mềm windows\WebApiHoaDon\WebApiHoaDon\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+G:\NĂM 4_HK2\Xây dựng phần mềm windows\WebApiHoaDon\WebApiHoaDon\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+G:\NĂM 4_HK2\Xây dựng phần mềm windows\WebApiHoaDon\WebApiHoaDon\bin\roslyn\Microsoft.CodeAnalysis.dll
+G:\NĂM 4_HK2\Xây dựng phần mềm windows\WebApiHoaDon\WebApiHoaDon\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+G:\NĂM 4_HK2\Xây dựng phần mềm windows\WebApiHoaDon\WebApiHoaDon\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+G:\NĂM 4_HK2\Xây dựng phần mềm windows\WebApiHoaDon\WebApiHoaDon\bin\roslyn\Microsoft.CSharp.Core.targets
+G:\NĂM 4_HK2\Xây dựng phần mềm windows\WebApiHoaDon\WebApiHoaDon\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+G:\NĂM 4_HK2\Xây dựng phần mềm windows\WebApiHoaDon\WebApiHoaDon\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+G:\NĂM 4_HK2\Xây dựng phần mềm windows\WebApiHoaDon\WebApiHoaDon\bin\roslyn\Microsoft.Managed.Core.targets
+G:\NĂM 4_HK2\Xây dựng phần mềm windows\WebApiHoaDon\WebApiHoaDon\bin\roslyn\Microsoft.VisualBasic.Core.targets
+G:\NĂM 4_HK2\Xây dựng phần mềm windows\WebApiHoaDon\WebApiHoaDon\bin\roslyn\Microsoft.Win32.Primitives.dll
+G:\NĂM 4_HK2\Xây dựng phần mềm windows\WebApiHoaDon\WebApiHoaDon\bin\roslyn\System.AppContext.dll
+G:\NĂM 4_HK2\Xây dựng phần mềm windows\WebApiHoaDon\WebApiHoaDon\bin\roslyn\System.Collections.Immutable.dll
+G:\NĂM 4_HK2\Xây dựng phần mềm windows\WebApiHoaDon\WebApiHoaDon\bin\roslyn\System.Console.dll
+G:\NĂM 4_HK2\Xây dựng phần mềm windows\WebApiHoaDon\WebApiHoaDon\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+G:\NĂM 4_HK2\Xây dựng phần mềm windows\WebApiHoaDon\WebApiHoaDon\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+G:\NĂM 4_HK2\Xây dựng phần mềm windows\WebApiHoaDon\WebApiHoaDon\bin\roslyn\System.Diagnostics.StackTrace.dll
+G:\NĂM 4_HK2\Xây dựng phần mềm windows\WebApiHoaDon\WebApiHoaDon\bin\roslyn\System.Globalization.Calendars.dll
+G:\NĂM 4_HK2\Xây dựng phần mềm windows\WebApiHoaDon\WebApiHoaDon\bin\roslyn\System.IO.Compression.dll
+G:\NĂM 4_HK2\Xây dựng phần mềm windows\WebApiHoaDon\WebApiHoaDon\bin\roslyn\System.IO.Compression.ZipFile.dll
+G:\NĂM 4_HK2\Xây dựng phần mềm windows\WebApiHoaDon\WebApiHoaDon\bin\roslyn\System.IO.FileSystem.dll
+G:\NĂM 4_HK2\Xây dựng phần mềm windows\WebApiHoaDon\WebApiHoaDon\bin\roslyn\System.IO.FileSystem.Primitives.dll
+G:\NĂM 4_HK2\Xây dựng phần mềm windows\WebApiHoaDon\WebApiHoaDon\bin\roslyn\System.Net.Http.dll
+G:\NĂM 4_HK2\Xây dựng phần mềm windows\WebApiHoaDon\WebApiHoaDon\bin\roslyn\System.Net.Sockets.dll
+G:\NĂM 4_HK2\Xây dựng phần mềm windows\WebApiHoaDon\WebApiHoaDon\bin\roslyn\System.Reflection.Metadata.dll
+G:\NĂM 4_HK2\Xây dựng phần mềm windows\WebApiHoaDon\WebApiHoaDon\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+G:\NĂM 4_HK2\Xây dựng phần mềm windows\WebApiHoaDon\WebApiHoaDon\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+G:\NĂM 4_HK2\Xây dựng phần mềm windows\WebApiHoaDon\WebApiHoaDon\bin\roslyn\System.Security.Cryptography.Encoding.dll
+G:\NĂM 4_HK2\Xây dựng phần mềm windows\WebApiHoaDon\WebApiHoaDon\bin\roslyn\System.Security.Cryptography.Primitives.dll
+G:\NĂM 4_HK2\Xây dựng phần mềm windows\WebApiHoaDon\WebApiHoaDon\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+G:\NĂM 4_HK2\Xây dựng phần mềm windows\WebApiHoaDon\WebApiHoaDon\bin\roslyn\System.Text.Encoding.CodePages.dll
+G:\NĂM 4_HK2\Xây dựng phần mềm windows\WebApiHoaDon\WebApiHoaDon\bin\roslyn\System.Threading.Tasks.Extensions.dll
+G:\NĂM 4_HK2\Xây dựng phần mềm windows\WebApiHoaDon\WebApiHoaDon\bin\roslyn\System.ValueTuple.dll
+G:\NĂM 4_HK2\Xây dựng phần mềm windows\WebApiHoaDon\WebApiHoaDon\bin\roslyn\System.Xml.ReaderWriter.dll
+G:\NĂM 4_HK2\Xây dựng phần mềm windows\WebApiHoaDon\WebApiHoaDon\bin\roslyn\System.Xml.XmlDocument.dll
+G:\NĂM 4_HK2\Xây dựng phần mềm windows\WebApiHoaDon\WebApiHoaDon\bin\roslyn\System.Xml.XPath.dll
+G:\NĂM 4_HK2\Xây dựng phần mềm windows\WebApiHoaDon\WebApiHoaDon\bin\roslyn\System.Xml.XPath.XDocument.dll
+G:\NĂM 4_HK2\Xây dựng phần mềm windows\WebApiHoaDon\WebApiHoaDon\bin\roslyn\vbc.exe
+G:\NĂM 4_HK2\Xây dựng phần mềm windows\WebApiHoaDon\WebApiHoaDon\bin\roslyn\vbc.exe.config
+G:\NĂM 4_HK2\Xây dựng phần mềm windows\WebApiHoaDon\WebApiHoaDon\bin\roslyn\vbc.rsp
+G:\NĂM 4_HK2\Xây dựng phần mềm windows\WebApiHoaDon\WebApiHoaDon\bin\roslyn\VBCSCompiler.exe
+G:\NĂM 4_HK2\Xây dựng phần mềm windows\WebApiHoaDon\WebApiHoaDon\bin\roslyn\VBCSCompiler.exe.config
+G:\NĂM 4_HK2\Xây dựng phần mềm windows\WebApiHoaDon\WebApiHoaDon\bin\EntityFramework.dll
+G:\NĂM 4_HK2\Xây dựng phần mềm windows\WebApiHoaDon\WebApiHoaDon\bin\EntityFramework.SqlServer.dll
+G:\NĂM 4_HK2\Xây dựng phần mềm windows\WebApiHoaDon\WebApiHoaDon\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+G:\NĂM 4_HK2\Xây dựng phần mềm windows\WebApiHoaDon\WebApiHoaDon\bin\Newtonsoft.Json.dll
+G:\NĂM 4_HK2\Xây dựng phần mềm windows\WebApiHoaDon\WebApiHoaDon\bin\System.Net.Http.Formatting.dll
+G:\NĂM 4_HK2\Xây dựng phần mềm windows\WebApiHoaDon\WebApiHoaDon\bin\System.Web.Http.dll
+G:\NĂM 4_HK2\Xây dựng phần mềm windows\WebApiHoaDon\WebApiHoaDon\bin\System.Web.Http.WebHost.dll
+G:\NĂM 4_HK2\Xây dựng phần mềm windows\WebApiHoaDon\WebApiHoaDon\bin\EntityFramework.xml
+G:\NĂM 4_HK2\Xây dựng phần mềm windows\WebApiHoaDon\WebApiHoaDon\bin\EntityFramework.SqlServer.xml
+G:\NĂM 4_HK2\Xây dựng phần mềm windows\WebApiHoaDon\WebApiHoaDon\bin\Newtonsoft.Json.xml
+G:\NĂM 4_HK2\Xây dựng phần mềm windows\WebApiHoaDon\WebApiHoaDon\bin\System.Net.Http.Formatting.xml
+G:\NĂM 4_HK2\Xây dựng phần mềm windows\WebApiHoaDon\WebApiHoaDon\bin\System.Web.Http.xml
+G:\NĂM 4_HK2\Xây dựng phần mềm windows\WebApiHoaDon\WebApiHoaDon\bin\System.Web.Http.WebHost.xml
+G:\NĂM 4_HK2\Xây dựng phần mềm windows\WebApiHoaDon\WebApiHoaDon\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+G:\NĂM 4_HK2\Xây dựng phần mềm windows\WebApiHoaDon\WebApiHoaDon\obj\Debug\WebApiHoaDon.csproj.CopyComplete
+G:\NĂM 4_HK2\Xây dựng phần mềm windows\WebApiHoaDon\WebApiHoaDon\obj\Debug\WebApiHoaDon.dll
+G:\NĂM 4_HK2\Xây dựng phần mềm windows\WebApiHoaDon\WebApiHoaDon\obj\Debug\WebApiHoaDon.pdb
+F:\tailieu\WebApiHoaDon\WebApiHoaDon\bin\WebApiHoaDon.dll.config
+F:\tailieu\WebApiHoaDon\WebApiHoaDon\bin\WebApiHoaDon.dll
+F:\tailieu\WebApiHoaDon\WebApiHoaDon\bin\WebApiHoaDon.pdb
+F:\tailieu\WebApiHoaDon\WebApiHoaDon\bin\roslyn\csc.exe
+F:\tailieu\WebApiHoaDon\WebApiHoaDon\bin\roslyn\csc.exe.config
+F:\tailieu\WebApiHoaDon\WebApiHoaDon\bin\roslyn\csc.rsp
+F:\tailieu\WebApiHoaDon\WebApiHoaDon\bin\roslyn\csi.exe
+F:\tailieu\WebApiHoaDon\WebApiHoaDon\bin\roslyn\csi.exe.config
+F:\tailieu\WebApiHoaDon\WebApiHoaDon\bin\roslyn\csi.rsp
+F:\tailieu\WebApiHoaDon\WebApiHoaDon\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+F:\tailieu\WebApiHoaDon\WebApiHoaDon\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+F:\tailieu\WebApiHoaDon\WebApiHoaDon\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+F:\tailieu\WebApiHoaDon\WebApiHoaDon\bin\roslyn\Microsoft.CodeAnalysis.dll
+F:\tailieu\WebApiHoaDon\WebApiHoaDon\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+F:\tailieu\WebApiHoaDon\WebApiHoaDon\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+F:\tailieu\WebApiHoaDon\WebApiHoaDon\bin\roslyn\Microsoft.CSharp.Core.targets
+F:\tailieu\WebApiHoaDon\WebApiHoaDon\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+F:\tailieu\WebApiHoaDon\WebApiHoaDon\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+F:\tailieu\WebApiHoaDon\WebApiHoaDon\bin\roslyn\Microsoft.Managed.Core.targets
+F:\tailieu\WebApiHoaDon\WebApiHoaDon\bin\roslyn\Microsoft.VisualBasic.Core.targets
+F:\tailieu\WebApiHoaDon\WebApiHoaDon\bin\roslyn\Microsoft.Win32.Primitives.dll
+F:\tailieu\WebApiHoaDon\WebApiHoaDon\bin\roslyn\System.AppContext.dll
+F:\tailieu\WebApiHoaDon\WebApiHoaDon\bin\roslyn\System.Collections.Immutable.dll
+F:\tailieu\WebApiHoaDon\WebApiHoaDon\bin\roslyn\System.Console.dll
+F:\tailieu\WebApiHoaDon\WebApiHoaDon\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+F:\tailieu\WebApiHoaDon\WebApiHoaDon\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+F:\tailieu\WebApiHoaDon\WebApiHoaDon\bin\roslyn\System.Diagnostics.StackTrace.dll
+F:\tailieu\WebApiHoaDon\WebApiHoaDon\bin\roslyn\System.Globalization.Calendars.dll
+F:\tailieu\WebApiHoaDon\WebApiHoaDon\bin\roslyn\System.IO.Compression.dll
+F:\tailieu\WebApiHoaDon\WebApiHoaDon\bin\roslyn\System.IO.Compression.ZipFile.dll
+F:\tailieu\WebApiHoaDon\WebApiHoaDon\bin\roslyn\System.IO.FileSystem.dll
+F:\tailieu\WebApiHoaDon\WebApiHoaDon\bin\roslyn\System.IO.FileSystem.Primitives.dll
+F:\tailieu\WebApiHoaDon\WebApiHoaDon\bin\roslyn\System.Net.Http.dll
+F:\tailieu\WebApiHoaDon\WebApiHoaDon\bin\roslyn\System.Net.Sockets.dll
+F:\tailieu\WebApiHoaDon\WebApiHoaDon\bin\roslyn\System.Reflection.Metadata.dll
+F:\tailieu\WebApiHoaDon\WebApiHoaDon\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+F:\tailieu\WebApiHoaDon\WebApiHoaDon\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+F:\tailieu\WebApiHoaDon\WebApiHoaDon\bin\roslyn\System.Security.Cryptography.Encoding.dll
+F:\tailieu\WebApiHoaDon\WebApiHoaDon\bin\roslyn\System.Security.Cryptography.Primitives.dll
+F:\tailieu\WebApiHoaDon\WebApiHoaDon\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+F:\tailieu\WebApiHoaDon\WebApiHoaDon\bin\roslyn\System.Text.Encoding.CodePages.dll
+F:\tailieu\WebApiHoaDon\WebApiHoaDon\bin\roslyn\System.Threading.Tasks.Extensions.dll
+F:\tailieu\WebApiHoaDon\WebApiHoaDon\bin\roslyn\System.ValueTuple.dll
+F:\tailieu\WebApiHoaDon\WebApiHoaDon\bin\roslyn\System.Xml.ReaderWriter.dll
+F:\tailieu\WebApiHoaDon\WebApiHoaDon\bin\roslyn\System.Xml.XmlDocument.dll
+F:\tailieu\WebApiHoaDon\WebApiHoaDon\bin\roslyn\System.Xml.XPath.dll
+F:\tailieu\WebApiHoaDon\WebApiHoaDon\bin\roslyn\System.Xml.XPath.XDocument.dll
+F:\tailieu\WebApiHoaDon\WebApiHoaDon\bin\roslyn\vbc.exe
+F:\tailieu\WebApiHoaDon\WebApiHoaDon\bin\roslyn\vbc.exe.config
+F:\tailieu\WebApiHoaDon\WebApiHoaDon\bin\roslyn\vbc.rsp
+F:\tailieu\WebApiHoaDon\WebApiHoaDon\bin\roslyn\VBCSCompiler.exe
+F:\tailieu\WebApiHoaDon\WebApiHoaDon\bin\roslyn\VBCSCompiler.exe.config
+F:\tailieu\WebApiHoaDon\WebApiHoaDon\bin\EntityFramework.dll
+F:\tailieu\WebApiHoaDon\WebApiHoaDon\bin\EntityFramework.SqlServer.dll
+F:\tailieu\WebApiHoaDon\WebApiHoaDon\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+F:\tailieu\WebApiHoaDon\WebApiHoaDon\bin\Newtonsoft.Json.dll
+F:\tailieu\WebApiHoaDon\WebApiHoaDon\bin\System.Net.Http.Formatting.dll
+F:\tailieu\WebApiHoaDon\WebApiHoaDon\bin\System.Web.Http.dll
+F:\tailieu\WebApiHoaDon\WebApiHoaDon\bin\System.Web.Http.WebHost.dll
+F:\tailieu\WebApiHoaDon\WebApiHoaDon\bin\EntityFramework.xml
+F:\tailieu\WebApiHoaDon\WebApiHoaDon\bin\EntityFramework.SqlServer.xml
+F:\tailieu\WebApiHoaDon\WebApiHoaDon\bin\Newtonsoft.Json.xml
+F:\tailieu\WebApiHoaDon\WebApiHoaDon\bin\System.Net.Http.Formatting.xml
+F:\tailieu\WebApiHoaDon\WebApiHoaDon\bin\System.Web.Http.xml
+F:\tailieu\WebApiHoaDon\WebApiHoaDon\bin\System.Web.Http.WebHost.xml
+F:\tailieu\WebApiHoaDon\WebApiHoaDon\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+F:\tailieu\WebApiHoaDon\WebApiHoaDon\obj\Debug\WebApiHoaDon.csprojAssemblyReference.cache
+F:\tailieu\WebApiHoaDon\WebApiHoaDon\obj\Debug\WebApiHoaDon.csproj.CoreCompileInputs.cache
+F:\tailieu\WebApiHoaDon\WebApiHoaDon\obj\Debug\WebApiHoaDon.csproj.CopyComplete
+F:\tailieu\WebApiHoaDon\WebApiHoaDon\obj\Debug\WebApiHoaDon.dll
+F:\tailieu\WebApiHoaDon\WebApiHoaDon\obj\Debug\WebApiHoaDon.pdb
+F:\tailieu\HoaDonNe\WebApiHoaDon\WebApiHoaDon\bin\WebApiHoaDon.dll.config
+F:\tailieu\HoaDonNe\WebApiHoaDon\WebApiHoaDon\bin\WebApiHoaDon.dll
+F:\tailieu\HoaDonNe\WebApiHoaDon\WebApiHoaDon\bin\WebApiHoaDon.pdb
+F:\tailieu\HoaDonNe\WebApiHoaDon\WebApiHoaDon\bin\roslyn\csc.exe
+F:\tailieu\HoaDonNe\WebApiHoaDon\WebApiHoaDon\bin\roslyn\csc.exe.config
+F:\tailieu\HoaDonNe\WebApiHoaDon\WebApiHoaDon\bin\roslyn\csc.rsp
+F:\tailieu\HoaDonNe\WebApiHoaDon\WebApiHoaDon\bin\roslyn\csi.exe
+F:\tailieu\HoaDonNe\WebApiHoaDon\WebApiHoaDon\bin\roslyn\csi.exe.config
+F:\tailieu\HoaDonNe\WebApiHoaDon\WebApiHoaDon\bin\roslyn\csi.rsp
+F:\tailieu\HoaDonNe\WebApiHoaDon\WebApiHoaDon\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+F:\tailieu\HoaDonNe\WebApiHoaDon\WebApiHoaDon\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+F:\tailieu\HoaDonNe\WebApiHoaDon\WebApiHoaDon\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+F:\tailieu\HoaDonNe\WebApiHoaDon\WebApiHoaDon\bin\roslyn\Microsoft.CodeAnalysis.dll
+F:\tailieu\HoaDonNe\WebApiHoaDon\WebApiHoaDon\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+F:\tailieu\HoaDonNe\WebApiHoaDon\WebApiHoaDon\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+F:\tailieu\HoaDonNe\WebApiHoaDon\WebApiHoaDon\bin\roslyn\Microsoft.CSharp.Core.targets
+F:\tailieu\HoaDonNe\WebApiHoaDon\WebApiHoaDon\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+F:\tailieu\HoaDonNe\WebApiHoaDon\WebApiHoaDon\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+F:\tailieu\HoaDonNe\WebApiHoaDon\WebApiHoaDon\bin\roslyn\Microsoft.Managed.Core.targets
+F:\tailieu\HoaDonNe\WebApiHoaDon\WebApiHoaDon\bin\roslyn\Microsoft.VisualBasic.Core.targets
+F:\tailieu\HoaDonNe\WebApiHoaDon\WebApiHoaDon\bin\roslyn\Microsoft.Win32.Primitives.dll
+F:\tailieu\HoaDonNe\WebApiHoaDon\WebApiHoaDon\bin\roslyn\System.AppContext.dll
+F:\tailieu\HoaDonNe\WebApiHoaDon\WebApiHoaDon\bin\roslyn\System.Collections.Immutable.dll
+F:\tailieu\HoaDonNe\WebApiHoaDon\WebApiHoaDon\bin\roslyn\System.Console.dll
+F:\tailieu\HoaDonNe\WebApiHoaDon\WebApiHoaDon\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+F:\tailieu\HoaDonNe\WebApiHoaDon\WebApiHoaDon\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+F:\tailieu\HoaDonNe\WebApiHoaDon\WebApiHoaDon\bin\roslyn\System.Diagnostics.StackTrace.dll
+F:\tailieu\HoaDonNe\WebApiHoaDon\WebApiHoaDon\bin\roslyn\System.Globalization.Calendars.dll
+F:\tailieu\HoaDonNe\WebApiHoaDon\WebApiHoaDon\bin\roslyn\System.IO.Compression.dll
+F:\tailieu\HoaDonNe\WebApiHoaDon\WebApiHoaDon\bin\roslyn\System.IO.Compression.ZipFile.dll
+F:\tailieu\HoaDonNe\WebApiHoaDon\WebApiHoaDon\bin\roslyn\System.IO.FileSystem.dll
+F:\tailieu\HoaDonNe\WebApiHoaDon\WebApiHoaDon\bin\roslyn\System.IO.FileSystem.Primitives.dll
+F:\tailieu\HoaDonNe\WebApiHoaDon\WebApiHoaDon\bin\roslyn\System.Net.Http.dll
+F:\tailieu\HoaDonNe\WebApiHoaDon\WebApiHoaDon\bin\roslyn\System.Net.Sockets.dll
+F:\tailieu\HoaDonNe\WebApiHoaDon\WebApiHoaDon\bin\roslyn\System.Reflection.Metadata.dll
+F:\tailieu\HoaDonNe\WebApiHoaDon\WebApiHoaDon\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+F:\tailieu\HoaDonNe\WebApiHoaDon\WebApiHoaDon\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+F:\tailieu\HoaDonNe\WebApiHoaDon\WebApiHoaDon\bin\roslyn\System.Security.Cryptography.Encoding.dll
+F:\tailieu\HoaDonNe\WebApiHoaDon\WebApiHoaDon\bin\roslyn\System.Security.Cryptography.Primitives.dll
+F:\tailieu\HoaDonNe\WebApiHoaDon\WebApiHoaDon\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+F:\tailieu\HoaDonNe\WebApiHoaDon\WebApiHoaDon\bin\roslyn\System.Text.Encoding.CodePages.dll
+F:\tailieu\HoaDonNe\WebApiHoaDon\WebApiHoaDon\bin\roslyn\System.Threading.Tasks.Extensions.dll
+F:\tailieu\HoaDonNe\WebApiHoaDon\WebApiHoaDon\bin\roslyn\System.ValueTuple.dll
+F:\tailieu\HoaDonNe\WebApiHoaDon\WebApiHoaDon\bin\roslyn\System.Xml.ReaderWriter.dll
+F:\tailieu\HoaDonNe\WebApiHoaDon\WebApiHoaDon\bin\roslyn\System.Xml.XmlDocument.dll
+F:\tailieu\HoaDonNe\WebApiHoaDon\WebApiHoaDon\bin\roslyn\System.Xml.XPath.dll
+F:\tailieu\HoaDonNe\WebApiHoaDon\WebApiHoaDon\bin\roslyn\System.Xml.XPath.XDocument.dll
+F:\tailieu\HoaDonNe\WebApiHoaDon\WebApiHoaDon\bin\roslyn\vbc.exe
+F:\tailieu\HoaDonNe\WebApiHoaDon\WebApiHoaDon\bin\roslyn\vbc.exe.config
+F:\tailieu\HoaDonNe\WebApiHoaDon\WebApiHoaDon\bin\roslyn\vbc.rsp
+F:\tailieu\HoaDonNe\WebApiHoaDon\WebApiHoaDon\bin\roslyn\VBCSCompiler.exe
+F:\tailieu\HoaDonNe\WebApiHoaDon\WebApiHoaDon\bin\roslyn\VBCSCompiler.exe.config
+F:\tailieu\HoaDonNe\WebApiHoaDon\WebApiHoaDon\bin\EntityFramework.dll
+F:\tailieu\HoaDonNe\WebApiHoaDon\WebApiHoaDon\bin\EntityFramework.SqlServer.dll
+F:\tailieu\HoaDonNe\WebApiHoaDon\WebApiHoaDon\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+F:\tailieu\HoaDonNe\WebApiHoaDon\WebApiHoaDon\bin\Newtonsoft.Json.dll
+F:\tailieu\HoaDonNe\WebApiHoaDon\WebApiHoaDon\bin\System.Net.Http.Formatting.dll
+F:\tailieu\HoaDonNe\WebApiHoaDon\WebApiHoaDon\bin\System.Web.Http.dll
+F:\tailieu\HoaDonNe\WebApiHoaDon\WebApiHoaDon\bin\System.Web.Http.WebHost.dll
+F:\tailieu\HoaDonNe\WebApiHoaDon\WebApiHoaDon\bin\EntityFramework.xml
+F:\tailieu\HoaDonNe\WebApiHoaDon\WebApiHoaDon\bin\EntityFramework.SqlServer.xml
+F:\tailieu\HoaDonNe\WebApiHoaDon\WebApiHoaDon\bin\Newtonsoft.Json.xml
+F:\tailieu\HoaDonNe\WebApiHoaDon\WebApiHoaDon\bin\System.Net.Http.Formatting.xml
+F:\tailieu\HoaDonNe\WebApiHoaDon\WebApiHoaDon\bin\System.Web.Http.xml
+F:\tailieu\HoaDonNe\WebApiHoaDon\WebApiHoaDon\bin\System.Web.Http.WebHost.xml
+F:\tailieu\HoaDonNe\WebApiHoaDon\WebApiHoaDon\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+F:\tailieu\HoaDonNe\WebApiHoaDon\WebApiHoaDon\obj\Debug\WebApiHoaDon.csprojAssemblyReference.cache
+F:\tailieu\HoaDonNe\WebApiHoaDon\WebApiHoaDon\obj\Debug\WebApiHoaDon.csproj.CoreCompileInputs.cache
+F:\tailieu\HoaDonNe\WebApiHoaDon\WebApiHoaDon\obj\Debug\WebApiHoaDon.csproj.CopyComplete
+F:\tailieu\HoaDonNe\WebApiHoaDon\WebApiHoaDon\obj\Debug\WebApiHoaDon.dll
+F:\tailieu\HoaDonNe\WebApiHoaDon\WebApiHoaDon\obj\Debug\WebApiHoaDon.pdb

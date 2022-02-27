@@ -1,0 +1,75 @@
+D:\BaiGiang\XDPMWin\D17_TH\Nhom_3\WpfHoadonApi\WpfHoadonApi\bin\Debug\WpfHoadonApi.exe.config
+D:\BaiGiang\XDPMWin\D17_TH\Nhom_3\WpfHoadonApi\WpfHoadonApi\bin\Debug\WpfHoadonApi.exe
+D:\BaiGiang\XDPMWin\D17_TH\Nhom_3\WpfHoadonApi\WpfHoadonApi\bin\Debug\WpfHoadonApi.pdb
+D:\BaiGiang\XDPMWin\D17_TH\Nhom_3\WpfHoadonApi\WpfHoadonApi\obj\Debug\WpfHoadonApi.csprojAssemblyReference.cache
+D:\BaiGiang\XDPMWin\D17_TH\Nhom_3\WpfHoadonApi\WpfHoadonApi\obj\Debug\MainWindow.g.cs
+D:\BaiGiang\XDPMWin\D17_TH\Nhom_3\WpfHoadonApi\WpfHoadonApi\obj\Debug\App.g.cs
+D:\BaiGiang\XDPMWin\D17_TH\Nhom_3\WpfHoadonApi\WpfHoadonApi\obj\Debug\WpfHoadonApi_MarkupCompile.cache
+D:\BaiGiang\XDPMWin\D17_TH\Nhom_3\WpfHoadonApi\WpfHoadonApi\obj\Debug\WpfHoadonApi_MarkupCompile.lref
+D:\BaiGiang\XDPMWin\D17_TH\Nhom_3\WpfHoadonApi\WpfHoadonApi\obj\Debug\MainWindow.baml
+D:\BaiGiang\XDPMWin\D17_TH\Nhom_3\WpfHoadonApi\WpfHoadonApi\obj\Debug\WpfHoadonApi.g.resources
+D:\BaiGiang\XDPMWin\D17_TH\Nhom_3\WpfHoadonApi\WpfHoadonApi\obj\Debug\WpfHoadonApi.Properties.Resources.resources
+D:\BaiGiang\XDPMWin\D17_TH\Nhom_3\WpfHoadonApi\WpfHoadonApi\obj\Debug\WpfHoadonApi.csproj.GenerateResource.cache
+D:\BaiGiang\XDPMWin\D17_TH\Nhom_3\WpfHoadonApi\WpfHoadonApi\obj\Debug\WpfHoadonApi.csproj.CoreCompileInputs.cache
+D:\BaiGiang\XDPMWin\D17_TH\Nhom_3\WpfHoadonApi\WpfHoadonApi\obj\Debug\WpfHoadonApi.exe
+D:\BaiGiang\XDPMWin\D17_TH\Nhom_3\WpfHoadonApi\WpfHoadonApi\obj\Debug\WpfHoadonApi.pdb
+G:\NĂM 4_HK2\Xây dựng phần mềm windows\WpfHoadonApi\WpfHoadonApi\bin\Debug\WpfHoadonApi.exe.config
+G:\NĂM 4_HK2\Xây dựng phần mềm windows\WpfHoadonApi\WpfHoadonApi\bin\Debug\WpfHoadonApi.exe
+G:\NĂM 4_HK2\Xây dựng phần mềm windows\WpfHoadonApi\WpfHoadonApi\bin\Debug\WpfHoadonApi.pdb
+G:\NĂM 4_HK2\Xây dựng phần mềm windows\WpfHoadonApi\WpfHoadonApi\bin\Debug\Newtonsoft.Json.dll
+G:\NĂM 4_HK2\Xây dựng phần mềm windows\WpfHoadonApi\WpfHoadonApi\bin\Debug\System.Net.Http.Formatting.dll
+G:\NĂM 4_HK2\Xây dựng phần mềm windows\WpfHoadonApi\WpfHoadonApi\bin\Debug\Newtonsoft.Json.xml
+G:\NĂM 4_HK2\Xây dựng phần mềm windows\WpfHoadonApi\WpfHoadonApi\bin\Debug\System.Net.Http.Formatting.xml
+G:\NĂM 4_HK2\Xây dựng phần mềm windows\WpfHoadonApi\WpfHoadonApi\obj\Debug\WpfHoadonApi.csprojAssemblyReference.cache
+G:\NĂM 4_HK2\Xây dựng phần mềm windows\WpfHoadonApi\WpfHoadonApi\obj\Debug\MainWindow.g.cs
+G:\NĂM 4_HK2\Xây dựng phần mềm windows\WpfHoadonApi\WpfHoadonApi\obj\Debug\App.g.cs
+G:\NĂM 4_HK2\Xây dựng phần mềm windows\WpfHoadonApi\WpfHoadonApi\obj\Debug\WpfHoadonApi_MarkupCompile.cache
+G:\NĂM 4_HK2\Xây dựng phần mềm windows\WpfHoadonApi\WpfHoadonApi\obj\Debug\WpfHoadonApi_MarkupCompile.lref
+G:\NĂM 4_HK2\Xây dựng phần mềm windows\WpfHoadonApi\WpfHoadonApi\obj\Debug\MainWindow.baml
+G:\NĂM 4_HK2\Xây dựng phần mềm windows\WpfHoadonApi\WpfHoadonApi\obj\Debug\WpfHoadonApi.g.resources
+G:\NĂM 4_HK2\Xây dựng phần mềm windows\WpfHoadonApi\WpfHoadonApi\obj\Debug\WpfHoadonApi.Properties.Resources.resources
+G:\NĂM 4_HK2\Xây dựng phần mềm windows\WpfHoadonApi\WpfHoadonApi\obj\Debug\WpfHoadonApi.csproj.GenerateResource.cache
+G:\NĂM 4_HK2\Xây dựng phần mềm windows\WpfHoadonApi\WpfHoadonApi\obj\Debug\WpfHoadonApi.csproj.CoreCompileInputs.cache
+G:\NĂM 4_HK2\Xây dựng phần mềm windows\WpfHoadonApi\WpfHoadonApi\obj\Debug\WpfHoadonApi.csproj.CopyComplete
+G:\NĂM 4_HK2\Xây dựng phần mềm windows\WpfHoadonApi\WpfHoadonApi\obj\Debug\WpfHoadonApi.exe
+G:\NĂM 4_HK2\Xây dựng phần mềm windows\WpfHoadonApi\WpfHoadonApi\obj\Debug\WpfHoadonApi.pdb
+F:\tailieu\WpfHoadonApi\WpfHoadonApi\obj\Debug\WpfHoadonApi.csprojAssemblyReference.cache
+F:\tailieu\WpfHoadonApi\WpfHoadonApi\obj\Debug\MainWindow.g.cs
+F:\tailieu\WpfHoadonApi\WpfHoadonApi\obj\Debug\App.g.cs
+F:\tailieu\WpfHoadonApi\WpfHoadonApi\obj\Debug\WpfHoadonApi_MarkupCompile.cache
+F:\tailieu\WpfHoadonApi\WpfHoadonApi\obj\Debug\WpfHoadonApi_MarkupCompile.lref
+F:\tailieu\WpfHoadonApi\WpfHoadonApi\obj\Debug\WpfHoadonApi.exe
+F:\tailieu\WpfHoadonApi\WpfHoadonApi\obj\Debug\WpfHoadonApi.pdb
+F:\tailieu\WpfHoadonApi\WpfHoadonApi\bin\Debug\WpfHoadonApi.exe.config
+F:\tailieu\WpfHoadonApi\WpfHoadonApi\bin\Debug\WpfHoadonApi.exe
+F:\tailieu\WpfHoadonApi\WpfHoadonApi\bin\Debug\WpfHoadonApi.pdb
+F:\tailieu\WpfHoadonApi\WpfHoadonApi\bin\Debug\Newtonsoft.Json.dll
+F:\tailieu\WpfHoadonApi\WpfHoadonApi\bin\Debug\System.Net.Http.Formatting.dll
+F:\tailieu\WpfHoadonApi\WpfHoadonApi\bin\Debug\Newtonsoft.Json.xml
+F:\tailieu\WpfHoadonApi\WpfHoadonApi\bin\Debug\System.Net.Http.Formatting.xml
+F:\tailieu\WpfHoadonApi\WpfHoadonApi\obj\Debug\MainWindow.baml
+F:\tailieu\WpfHoadonApi\WpfHoadonApi\obj\Debug\WpfHoadonApi.g.resources
+F:\tailieu\WpfHoadonApi\WpfHoadonApi\obj\Debug\WpfHoadonApi.Properties.Resources.resources
+F:\tailieu\WpfHoadonApi\WpfHoadonApi\obj\Debug\WpfHoadonApi.csproj.GenerateResource.cache
+F:\tailieu\WpfHoadonApi\WpfHoadonApi\obj\Debug\WpfHoadonApi.csproj.CoreCompileInputs.cache
+F:\tailieu\WpfHoadonApi\WpfHoadonApi\obj\Debug\WpfHoadonApi.csproj.CopyComplete
+F:\tailieu\HoaDonNe\WpfHoadonApi\WpfHoadonApi\bin\Debug\WpfHoadonApi.exe.config
+F:\tailieu\HoaDonNe\WpfHoadonApi\WpfHoadonApi\bin\Debug\WpfHoadonApi.exe
+F:\tailieu\HoaDonNe\WpfHoadonApi\WpfHoadonApi\bin\Debug\WpfHoadonApi.pdb
+F:\tailieu\HoaDonNe\WpfHoadonApi\WpfHoadonApi\bin\Debug\Newtonsoft.Json.dll
+F:\tailieu\HoaDonNe\WpfHoadonApi\WpfHoadonApi\bin\Debug\System.Net.Http.Formatting.dll
+F:\tailieu\HoaDonNe\WpfHoadonApi\WpfHoadonApi\bin\Debug\Newtonsoft.Json.xml
+F:\tailieu\HoaDonNe\WpfHoadonApi\WpfHoadonApi\bin\Debug\System.Net.Http.Formatting.xml
+F:\tailieu\HoaDonNe\WpfHoadonApi\WpfHoadonApi\obj\Debug\WpfHoadonApi.csprojAssemblyReference.cache
+F:\tailieu\HoaDonNe\WpfHoadonApi\WpfHoadonApi\obj\Debug\MainWindow.g.cs
+F:\tailieu\HoaDonNe\WpfHoadonApi\WpfHoadonApi\obj\Debug\App.g.cs
+F:\tailieu\HoaDonNe\WpfHoadonApi\WpfHoadonApi\obj\Debug\WpfHoadonApi_MarkupCompile.cache
+F:\tailieu\HoaDonNe\WpfHoadonApi\WpfHoadonApi\obj\Debug\WpfHoadonApi_MarkupCompile.lref
+F:\tailieu\HoaDonNe\WpfHoadonApi\WpfHoadonApi\obj\Debug\MainWindow.baml
+F:\tailieu\HoaDonNe\WpfHoadonApi\WpfHoadonApi\obj\Debug\WpfHoadonApi.g.resources
+F:\tailieu\HoaDonNe\WpfHoadonApi\WpfHoadonApi\obj\Debug\WpfHoadonApi.Properties.Resources.resources
+F:\tailieu\HoaDonNe\WpfHoadonApi\WpfHoadonApi\obj\Debug\WpfHoadonApi.csproj.GenerateResource.cache
+F:\tailieu\HoaDonNe\WpfHoadonApi\WpfHoadonApi\obj\Debug\WpfHoadonApi.csproj.CoreCompileInputs.cache
+F:\tailieu\HoaDonNe\WpfHoadonApi\WpfHoadonApi\obj\Debug\WpfHoadonApi.csproj.CopyComplete
+F:\tailieu\HoaDonNe\WpfHoadonApi\WpfHoadonApi\obj\Debug\WpfHoadonApi.exe
+F:\tailieu\HoaDonNe\WpfHoadonApi\WpfHoadonApi\obj\Debug\WpfHoadonApi.pdb
